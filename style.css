@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 50px;
+    background-color: #bbb;
+}
+
+.lista {
+    background-color: #ccceee;
+    width: 250px;
+    padding: 20px 20px 20px 40px;
+    border: 5px solid black;
+}
+
+.elemento {
+    margin: 15px 0;
+}
+
+.valor {
+    font-size: 20px;
+}
